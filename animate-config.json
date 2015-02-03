@@ -3,9 +3,9 @@
   "attention_seekers": {
     "bounce": false,
     "flash": false,
-    "pulse": false,
+    "pulse": true,
     "rubberBand": false,
-    "shake": false,
+    "shake": true,
     "swing": false,
     "tada": false,
     "wobble": false
@@ -29,11 +29,11 @@
 
   "fading_entrances": {
     "fadeIn": true,
-    "fadeInDown": false,
+    "fadeInDown": true,
     "fadeInDownBig": false,
-    "fadeInLeft": false,
-    "fadeInLeftBig": false,
-    "fadeInRight": false,
+    "fadeInLeft": true,
+    "fadeInLeftBig": true,
+    "fadeInRight": true,
     "fadeInRightBig": false,
     "fadeInUp": true,
     "fadeInUpBig": false
